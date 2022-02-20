@@ -100,3 +100,13 @@ header {
   font-family: sans-serif;
   color: #ffffff;
 }
+.feature-selection {
+  padding-top: 100px;
+}
+.feature-selection-tittle {
+  text-align: center;
+  width: 80%;
+  margin: auto;
+  font-weight: 200;
+  line-height: 1.5em;
+}
