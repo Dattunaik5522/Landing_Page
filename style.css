@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background-color: black;
+  background-color: #ffffff;
   margin: 0;
 }
 
@@ -30,7 +30,7 @@ header {
   display: inline;
   font-size: 0.85em;
   color: #8e8e8e;
-  padding-right: 30px;
+  padding-right: 20px;
 }
 .getStartedButton {
   background-color: #6dc77a;
@@ -41,4 +41,62 @@ header {
   margin-top: 20px;
   display: inline;
   float: right;
+}
+/* .main-container {
+  margin-top: none;
+} */
+#top-section-main {
+  background-image: url(/ForPhotos//Friends);
+  height: 740px;
+  border: none;
+}
+#top-section-content {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+#top-section-content h1 {
+  font-size: 4em;
+  font-weight: 300;
+  text-align: center;
+  color: #ffffff;
+  margin-top: 0;
+  padding-top: 100px;
+  margin-bottom: 10px;
+}
+#top-section-content p {
+  font-size: 1.3em;
+  font-weight: 400;
+  text-align: center;
+  color: #ffffff;
+  margin-top: 0;
+}
+.play-button {
+  padding: 50px 0 110px 0;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.main-form h6 {
+  font-family: sans-serif;
+  color: #ffffff;
+  font-size: 1em;
+  text-align: center;
+  font-weight: 100;
+}
+.main-form input {
+  text-align: center;
+  margin: 0;
+  width: 30%;
+  height: 40px;
+  font-family: sans-serif;
+  font-weight: 100;
+}
+.main-form button {
+  width: 30%;
+  height: 43px;
+  background-color: #6dc77a;
+  font-size: 15px;
+  font-family: sans-serif;
+  color: #ffffff;
 }
